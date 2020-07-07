@@ -1,0 +1,14 @@
+html{
+  background-color: "#16151c"!important;
+  overflow-y:'hidden'!important;
+}
+body {
+  margin: 0!important;
+  overflow-y:'hidden'!important;
+}
+
+body > #root > div {
+  height: 100vh!important;
+  background-color: "#16151c"!important;
+  overflow-y:'hidden'!important;
+}
