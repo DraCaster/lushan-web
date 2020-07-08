@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/lushan-web/static/css/main.9407700d.chunk.css",
+    "main.js": "/lushan-web/static/js/main.4d87fb20.chunk.js",
+    "main.js.map": "/lushan-web/static/js/main.4d87fb20.chunk.js.map",
+    "runtime-main.js": "/lushan-web/static/js/runtime-main.6587f5d5.js",
+    "runtime-main.js.map": "/lushan-web/static/js/runtime-main.6587f5d5.js.map",
+    "static/js/2.4215570b.chunk.js": "/lushan-web/static/js/2.4215570b.chunk.js",
+    "static/js/2.4215570b.chunk.js.map": "/lushan-web/static/js/2.4215570b.chunk.js.map",
+    "index.html": "/lushan-web/index.html",
+    "precache-manifest.48bbb9563943827e10ebd34193408a08.js": "/lushan-web/precache-manifest.48bbb9563943827e10ebd34193408a08.js",
+    "service-worker.js": "/lushan-web/service-worker.js",
+    "static/css/main.9407700d.chunk.css.map": "/lushan-web/static/css/main.9407700d.chunk.css.map",
+    "static/media/css.png": "/lushan-web/static/media/css.0d09daac.png",
+    "static/media/docker.png": "/lushan-web/static/media/docker.e37b9a47.png",
+    "static/media/gatito.png": "/lushan-web/static/media/gatito.94c0bbd3.png",
+    "static/media/github.png": "/lushan-web/static/media/github.acf172f2.png",
+    "static/media/graphql.png": "/lushan-web/static/media/graphql.bc25f514.png",
+    "static/media/html.png": "/lushan-web/static/media/html.5d580e47.png",
+    "static/media/mariobros.png": "/lushan-web/static/media/mariobros.0a364ba7.png",
+    "static/media/mysql.png": "/lushan-web/static/media/mysql.94dd9425.png",
+    "static/media/nodejs.png": "/lushan-web/static/media/nodejs.55e83371.png",
+    "static/media/reactjs.png": "/lushan-web/static/media/reactjs.cb7f8c0d.png",
+    "static/media/vuejs.png": "/lushan-web/static/media/vuejs.fa62cbcf.png",
+    "static/media/vuetify.png": "/lushan-web/static/media/vuetify.100ee177.png"
+  }
+}
