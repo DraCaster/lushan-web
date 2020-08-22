@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a71ee64048130b6fa8fa40d4903bc4ea",
+    "revision": "8fe74badfaf113411f900ddf14115ce6",
     "url": "/lushan-web/index.html"
   },
   {
-    "revision": "6cd1cf531e8477c2b97f",
+    "revision": "1aec8899840be7205866",
     "url": "/lushan-web/static/css/main.9407700d.chunk.css"
   },
   {
@@ -12,12 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lushan-web/static/js/2.4215570b.chunk.js"
   },
   {
-    "revision": "6cd1cf531e8477c2b97f",
-    "url": "/lushan-web/static/js/main.4d87fb20.chunk.js"
+    "revision": "1aec8899840be7205866",
+    "url": "/lushan-web/static/js/main.fb957835.chunk.js"
   },
   {
     "revision": "259d457785292b2555b2",
     "url": "/lushan-web/static/js/runtime-main.6587f5d5.js"
+  },
+  {
+    "revision": "339f669707a401db5f094f30e350a888",
+    "url": "/lushan-web/static/media/avatar.339f6697.png"
   },
   {
     "revision": "0d09daaced1c06184ce0a653886e8f1f",

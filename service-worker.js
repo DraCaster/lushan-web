@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lushan-web/precache-manifest.48bbb9563943827e10ebd34193408a08.js"
+  "/lushan-web/precache-manifest.ca458eff2ada31d77c824c8b87e1c893.js"
 );
 
 self.addEventListener('message', (event) => {
