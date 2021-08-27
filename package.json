@@ -1,42 +1,54 @@
 {
-  "homepage": "http://dracaster.github.io/lushan-web",
-  "name": "lushan-web",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@material-ui/core": "^4.11.0",
-    "@material-ui/icons": "^4.9.1",
-    "normalize.css": "^8.0.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-router-dom": "^5.2.0",
-    "react-router-hash-link": "^1.2.2",
-    "react-scripts": "3.1.2"
-  },
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.1.0"
-  }
+	"name": "lushan-web",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"serve": "vue-cli-service serve",
+		"build": "vue-cli-service build",
+		"lint": "vue-cli-service lint"
+	},
+	"dependencies": {
+		"@tailwindcss/forms": "^0.3.3",
+		"@tailwindcss/postcss7-compat": "^2.0.2",
+		"autoprefixer": "^9",
+		"core-js": "^3.6.5",
+		"feather-icons": "^4.28.0",
+		"postcss": "^7",
+		"postcss-flexbugs-fixes": "^5.0.2",
+		"postcss-import": "^14.0.2",
+		"postcss-preset-env": "^6.7.0",
+		"tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
+		"vue": "^3.0.0",
+		"vue-router": "^4.0.0-0"
+	},
+	"devDependencies": {
+		"@vue/cli-plugin-babel": "~4.5.0",
+		"@vue/cli-plugin-eslint": "~4.5.0",
+		"@vue/cli-plugin-router": "~4.5.0",
+		"@vue/cli-service": "~4.5.0",
+		"@vue/compiler-sfc": "^3.0.0",
+		"babel-eslint": "^10.1.0",
+		"eslint": "^6.7.2",
+		"eslint-plugin-vue": "^7.0.0",
+		"vue-cli-plugin-tailwind": "~2.0.6"
+	},
+	"eslintConfig": {
+		"root": true,
+		"env": {
+			"node": true
+		},
+		"extends": [
+			"plugin:vue/vue3-essential",
+			"eslint:recommended"
+		],
+		"parserOptions": {
+			"parser": "babel-eslint"
+		},
+		"rules": {}
+	},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"not dead"
+	]
 }
